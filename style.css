@@ -8,9 +8,8 @@ body{
     background-repeat: no-repeat;
     background-position: center;
     object-fit: cover; 
-    overflow: hidden;
     transform: scale(1);
-    min-height: 100vh;
+    max-height: 100vh;
     min-width: 320px;
 }
 
