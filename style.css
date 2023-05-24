@@ -103,4 +103,8 @@ a:hover{
     p{
         font-size: 15px;
     }
+    
+    body{
+        height: 100vh;
+    }
   }
